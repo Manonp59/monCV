@@ -1,0 +1,58 @@
+header{
+    font-family: 'Lato';
+    background-color:rgb(236, 180, 159);
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    font-family: 'Lato';
+}
+
+
+footer{
+    background-color: rgb(241, 229, 224);
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   font-size: smaller;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.centre{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    } 
+
+.large{
+    width: 350px;
+}
+
+.bouton{
+    border-radius:10px;
+    padding: 10px;
+}
+
+.bouton:hover{
+    background-color:rgb(236, 180, 159) ;
+}
+
+form{
+    border: dotted rgb(236, 180, 159);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+

@@ -1,0 +1,54 @@
+header{
+    font-family: 'Lato';
+    background-color:rgb(236, 180, 159);
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    font-family: 'Lato';
+}
+h1{
+    text-align: center;
+    border-bottom: solid 5px black;
+    padding-bottom: 20px;
+
+}
+
+footer{
+    background-color: rgb(241, 229, 224);
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   font-size: smaller;
+    text-align: center;
+    padding: 30px;
+}
+
+a h4{
+    color: black;
+    text-align: center;
+    text-decoration:none;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    margin: 10px;
+    border: solid 5px rgb(236, 180, 159);
+    border-radius: 10px;
+    background-color: rgb(241, 229, 224);
+}
+
+section img{
+    border-radius: 10px;
+}
+
+#titre{
+    margin-top: 30px;
+}

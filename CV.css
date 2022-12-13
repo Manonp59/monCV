@@ -1,0 +1,104 @@
+header{
+    font-family: 'Lato';
+    background-color:rgb(236, 180, 159);
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    font-family: 'Lato';
+}
+
+
+
+footer{
+    background-color: rgb(241, 229, 224);
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: smaller;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.card-img-top{
+    padding: 30px;
+    padding-bottom: 10px;
+    border-radius: 35px;
+}
+
+
+
+.card-body{
+    text-align: center;
+}
+.card-text{
+    text-align:left;
+    padding-bottom: 0;
+}
+
+.card{
+    background-color: rgb(236, 180, 159);
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+
+.card-title{
+    color:white;
+}
+
+h5{
+    font-size: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.accordion{
+    margin-top:30px ;
+}
+
+.accordion h2, .carousel h2, .list-group h2{
+    background-color: rgb(236, 180, 159);
+    color: white;
+    margin: 0;
+}
+
+.accordion-button.collapsed {
+    background:  rgb(243, 219, 211);
+    border: solid 1px rgb(236, 180, 159);
+  }
+
+  .carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.carousel{
+    background-color:rgb(243, 219, 211) ;
+    border: solid rgb(236, 180, 159);
+    margin-top: 25px;
+    border-radius: 10px !important
+}
+
+.list-group{
+    background-color:rgb(243, 219, 211) ;
+    border: solid rgb(236, 180, 159);
+    margin-top: 25px;
+    padding-right: 0;
+}
+
+#loisirs{
+    margin-top: 15px;
+}
+
+.card .list-group{
+    margin-top: 10px;
+}
+
